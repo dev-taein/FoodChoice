@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/main_background"
+    tools:context=".tab_home_Activity"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_marginTop="130dp"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <SearchView
+        android:id="@+id/searchView"
+        android:queryHint="검색어를 입력해주세요."
+        android:background="@android:color/white"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginBottom="35dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible" >
+    </SearchView>
+    <ImageButton
+        android:id="@+id/home_btn1"
+        android:src="@drawable/home_btn1"
+        android:background="@android:color/transparent"
+        android:layout_marginBottom="35dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+        <ImageButton
+            android:id="@+id/home_btn2"
+            android:src="@drawable/home_btn2"
+            android:background="@android:color/transparent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </LinearLayout>
+</LinearLayout>

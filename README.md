@@ -34,3 +34,9 @@
 + 10/28 로그인, 회원가입 기능 구현
 + 10/29 코드 정리 후 테스팅
 + 10/30 개발 마무리
+------------
+# 구현 화면
+![github_1](https://user-images.githubusercontent.com/77142806/112699336-f634e180-8ece-11eb-9320-592cfb291f57.PNG)
+![github_2](https://user-images.githubusercontent.com/77142806/112699349-f9c86880-8ece-11eb-960c-fadafa21725d.PNG)
+![github_3](https://user-images.githubusercontent.com/77142806/112699352-fb922c00-8ece-11eb-897f-041c39523b20.PNG)
+![github_4](https://user-images.githubusercontent.com/77142806/112699355-fcc35900-8ece-11eb-94a7-7247b5e74bd4.PNG)

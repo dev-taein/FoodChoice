@@ -8,7 +8,7 @@
 > Language
 + JAVA
 + php
-+ 닷홈 phpMyAdmin DB
++ Mysql
 > Platform, API
 + Android Studio v4.1.1
 + Visual Studio Code v1.54.3
